@@ -1,3 +1,5 @@
+Env: Ubuntu, GCP
+
 ```bash
 export GOOGLE_APPLICATION_CREDENTIALS=path/to/key.json
 export PROJECT_ID=your_id
