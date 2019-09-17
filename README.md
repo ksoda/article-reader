@@ -1,4 +1,7 @@
-Env: Ubuntu, GCP
+Env: Ubuntu
+Google Cloud
+- Translation API
+- Text-to-Speech API
 
 ```bash
 export GOOGLE_APPLICATION_CREDENTIALS=path/to/key.json
